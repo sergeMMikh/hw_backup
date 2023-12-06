@@ -34,8 +34,7 @@
 ### Результат
 - Срочка файла crontab:
   ```@daily sudo rsync -a --delete /home/smm /tmp/backup 2>&1 | logger```
-- Скрин
-- Скрин
+- Скриншот результата 
   * <img src="images/Task_2_1.jpg" alt="Task_2_1" width="500" height="auto">
 
 ---
